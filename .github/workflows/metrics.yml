@@ -17,23 +17,3 @@ jobs:
           add: ./*.svg
           message: "chore: update github-readme-stats"
           default_author: github_actions
-  github-metrics:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@v3.17
-        with:
-          # Your GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
-
-          # Options
-          user: lorenzocorallo
-          template: classic
-          base: ""
-          config_timezone: Europe/Rome
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: issue, pr, review, wiki, star, release, member, comment
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
-          plugin_activity_ignored: github-actions[bot], dependabot[bot], dependabot-preview[bot], allcontributors[bot]
