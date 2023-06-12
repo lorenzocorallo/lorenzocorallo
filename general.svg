@@ -8,7 +8,7 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Lorenzo Corallo's GitHub Stats, Rank: B</title>
+        <title id="titleId">Lorenzo Corallo's GitHub Stats, Rank: C+</title>
         <desc id="descId">Total Stars Earned: 3, Total Commits  : 3, Total PRs: 39, Total Issues: 10, Contributed to (last year): 7</desc>
         <style>
           .header {
@@ -67,7 +67,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 207.2912109134029;
+        stroke-dashoffset: 199.42605894835114;
       }
     }
   
@@ -137,7 +137,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          B
+          C+
         </text>
       
         </g>
