@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Lorenzo Corallo's GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 3, Total Commits  : 3, Total PRs: 142, Total Issues: 40, Contributed to (last year): 12</desc>
+        <desc id="descId">Total Stars Earned: 3, Total Commits  : 3, Total PRs: 143, Total Issues: 40, Contributed to (last year): 12</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 139.94519413502135;
+        stroke-dashoffset: 139.82438401520372;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >142</text>
+      >143</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
