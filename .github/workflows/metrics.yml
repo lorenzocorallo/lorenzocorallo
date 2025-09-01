@@ -1,7 +1,7 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
 on:
-  schedule: [{cron: "*/30 * * * *"}]
+  schedule: [{cron: "31 4 * * *"}]
   workflow_dispatch:
   push: {branches: ["main"]}
 jobs:
